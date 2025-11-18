@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BloodDonorFinder</string>
+    <string name="welcome_to_blood_donor_finder">Welcome to Blood Donor Finder</string>
+    <string name="continue_button">Continue</string>
+    <string name="name_hint">Name</string>
+    <string name="contact_hint">Contact</string>
+    <string name="add_button">Add</string>
+</resources>
